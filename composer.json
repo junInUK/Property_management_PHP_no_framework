@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "PHPTestException\\": "src/",
+            "Temp\\": "lib/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
